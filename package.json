@@ -1,0 +1,24 @@
+{
+  "name": "currency-4217",
+  "version": "0.1.0",
+  "description": "Provide currency type based ISO-4217",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perlmint/currency-4217.git"
+  },
+  "keywords": [
+    "currency",
+    "iso4217",
+    "4217"
+  ],
+  "author": "Gyusun Yeom <omniavinco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Perlmint/currency-4217/issues"
+  },
+  "homepage": "https://github.com/Perlmint/currency-4217#readme"
+}
